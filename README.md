@@ -1,5 +1,7 @@
-# quazapp
+Quazapp - An online quiz portal
 
-A new Flutter project.
+•   An online portal to create and take quizzes, with graphical representation of metrics.
+
+
 
 
